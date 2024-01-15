@@ -1,7 +1,9 @@
+import EmployersPage from "./EmployersPage";
+
 function App() {
   return (
-    <div className="flex   justify-items-center h-screen">
-      <h1 className="text-4xl font-bold underline ">Betternship</h1>
+    <div >
+      <EmployersPage />
     </div>
   );
 }
